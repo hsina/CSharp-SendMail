@@ -1,0 +1,16 @@
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.csprojAssemblyReference.cache
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.AssemblyInfoInputs.cache
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.AssemblyInfo.cs
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.csproj.CoreCompileInputs.cache
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\SendMail.exe
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\SendMail.deps.json
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\SendMail.runtimeconfig.json
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\SendMail.runtimeconfig.dev.json
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\SendMail.dll
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\ref\SendMail.dll
+D:\Practice\ASP.Net C#\SendMail\bin\Debug\net5.0\SendMail.pdb
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.dll
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\ref\SendMail.dll
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.pdb
+D:\Practice\ASP.Net C#\SendMail\obj\Debug\net5.0\SendMail.genruntimeconfig.cache
